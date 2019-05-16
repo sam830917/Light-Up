@@ -20,7 +20,7 @@ Light-Up
 ## Features
 
 *   Language setting.
-*   Difference levels can be chosen, and customize lenght and width.
+*   Different levels can be chosen, and customize lenght and width.
 *   Record saving.
     
 ## Tool
