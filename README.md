@@ -16,6 +16,12 @@ Light-Up
 
 ![demo_img3](/img/demo_img3.PNG)
 ![demo_img4](/img/demo_img4.PNG)
+
+## Features
+
+*   Language setting.
+*   Difference levels can be chosen, and customize lenght and width.
+*   Record saving.
     
 ## Tool
 
