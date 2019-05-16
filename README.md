@@ -7,6 +7,12 @@ Light-Up
     Pressing any of the lights will toggle it and the adjacent lights. 
     The goal of the puzzle is to switch all the lights on.
     
+## Features
+
+*   Language setting.
+*   Different levels can be chosen, and customize lenght and width.
+*   Record saving.
+    
 ## Demo
 
 [Youtube]( https://youtu.be/pNWU5v6D2eo )
@@ -16,12 +22,6 @@ Light-Up
 
 ![demo_img3](/img/demo_img3.PNG)
 ![demo_img4](/img/demo_img4.PNG)
-
-## Features
-
-*   Language setting.
-*   Different levels can be chosen, and customize lenght and width.
-*   Record saving.
     
 ## Tool
 
